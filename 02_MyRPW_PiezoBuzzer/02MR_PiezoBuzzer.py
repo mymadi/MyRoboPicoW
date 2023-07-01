@@ -1,5 +1,5 @@
 '''
-MyRoboPicoW: Test for Piezo Buzzer
+MyRoboPicoW: Test for Piezo Buzzer.
 Date: 1/7/2023
 Code by: NAR
 
