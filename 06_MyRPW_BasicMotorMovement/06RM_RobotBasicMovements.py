@@ -1,5 +1,7 @@
 '''
 MyRoboPW: Basic Robot Movement
+Date: 2/7/2023
+Code by: NAR
 
 Libraries required from bundle (https://circuitpython.org/libraries):
   - adafruit_motor
