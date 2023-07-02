@@ -1,5 +1,5 @@
 '''
-MyRobo: Test for 13x GPIO LEDs
+MyRoboPW: Test for 13x GPIO LEDs
 Date: 1/7/2023
 Code by: NAR
 
